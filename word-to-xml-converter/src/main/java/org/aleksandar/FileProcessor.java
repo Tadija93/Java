@@ -20,6 +20,7 @@ public class FileProcessor {
 
         // Extract paragraphs and handle shapes
         StringBuilder xmlContent = new StringBuilder();
+        xmlContent.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n");
         xmlContent.append("<document>\n");
 
         // Get all paragraph nodes
