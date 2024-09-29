@@ -16,7 +16,8 @@ Requirements
 Installation
 1. Clone the repository:
    git clone https://github.com/yourusername/word-to-xml-converter.git
+2. navigate to your folder
    cd word-to-xml-converter
-2. mvn clean install
-3. java -jar target/word-to-xml-converter-1.0-SNAPSHOT-shaded.jar /path/to/your/document.docx - To convert a Word document to XML, use the following command
+3. mvn clean install
+4. java -jar target/word-to-xml-converter-1.0-SNAPSHOT-shaded.jar /path/to/your/document.docx - To convert a Word document to XML, use the following command
 
