@@ -25,7 +25,7 @@ Make sure you have the following installed on your machine:
 
 ```plaintext
 .
-├── docker-compose.yml
+├── docker-compose.yml            # Database setup
 ├── restfull-api-web-services/    # Spring Boot backend
 └── todo-app/                     # React frontend
 ```
