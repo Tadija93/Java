@@ -69,14 +69,6 @@ java -jar target/shopify-api-<version>.jar
 
 ## Usage
 
-### Triggering Synchronization
-
-* The application exposes a `GET` endpoint to trigger product synchronization:
-
-```
-POST /shopify/sync-products
-```
-
 * You can test it locally using `curl` or a tool like Postman:
 
 ```bash
@@ -89,7 +81,7 @@ curl http://localhost:8081/shopify/receiver/products
 ```json
 {
   "status": "success",
-  "message": "10 products synchronized successfully."
+  "message": "Products synchronized. Created: 0, Updated: 16"
 }
 ```
 
