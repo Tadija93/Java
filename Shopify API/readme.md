@@ -126,4 +126,3 @@ For support or questions, feel free to reach out:
 **Author:** Aleksandar Tadic  
 **GitHub:** [github.com/Tadija93](https://github.com/Tadija93)  
 **Email:** aleksandartadic93@yahoo.com
-```
