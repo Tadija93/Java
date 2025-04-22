@@ -23,7 +23,7 @@ Make sure you have the following installed on your machine:
 
 ## Project Structure
 
-```
+```plaintext
 .
 ├── docker-compose.yml
 ├── restfull-api-web-services/    # Spring Boot backend
