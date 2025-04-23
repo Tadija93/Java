@@ -1,5 +1,3 @@
-Sure! Here's the entire `README.md` content written in one continuous block, ready to be copied into a single file:
-
 ---
 
 ```markdown
