@@ -1,4 +1,3 @@
-```markdown
 # Shopify Product Synchronization App
 
 ## Description
@@ -41,7 +40,7 @@ shopify.store.url=https://your-store.myshopify.com
 shopify.access.token=YOUR_SHOPIFY_ACCESS_TOKEN
 pim.store.url=https://your-pim-api.com
 pim.access.token=YOUR_PIM_API_TOKEN
-```
+
 
 * Alternatively, you can set these properties as environment variables.
 
