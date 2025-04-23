@@ -1,4 +1,3 @@
-```markdown
 # Todo Application (Full Stack)
 
 ## Overview
@@ -29,8 +28,6 @@ Make sure you have the following installed on your machine:
 ├── restfull-api-web-services/    # Spring Boot backend
 └── todo-app/                     # React frontend
 ```
-
----
 
 ## Instructions
 
