@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Shopify Product Synchronization App
 
